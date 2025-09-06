@@ -199,8 +199,8 @@ body {
 }
 
 .circle-7 {
-    width: 65px;
-    height: 65px;
+    width: 75px;
+    height: 75px;
     top: 35%;
     left: 15%;
     animation-delay: -2.5s;
@@ -217,8 +217,8 @@ body {
 .circle-9 {
     width: 95px;
     height: 95px;
-    bottom: 40%;
-    right: 12%;
+    bottom: 55%;
+    right: 20%;
     animation-delay: -1.5s;
 }
 
